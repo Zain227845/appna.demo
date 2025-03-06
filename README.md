@@ -1,3 +1,3 @@
 # appna.demo
 This is my first github repository.
-Auther-zain akram
+Auth0r-zain akram
